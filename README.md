@@ -1,11 +1,10 @@
 <div align="center">
 # KIM MINJEONG 🌱
 
-![jeong's Github Stats](https://github-readme-stats.vercel.app/api?username=jeong57&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-[![Solved.ac
-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddlsp0507)](https://solved.ac/wjddlsp0507)
-
+  <div class="d-inline">
+    ![jeong's Github Stats](https://github-readme-stats.vercel.app/api?username=jeong57&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddlsp0507)](https://solved.ac/wjddlsp0507)
+  </div>
 
 ## Stack
 ### Languages
