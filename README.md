@@ -22,10 +22,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/Pycharm-000000.svg?&style=for-the-badge&logo=Pycharm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeong57&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeong57&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **jeong57/jeong57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
