@@ -1,10 +1,10 @@
 <div align="center">
-# KIM MINJEONG 🌱
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<h1>KIM MINJEONG</h1>
 
-  <div class="d-inline">
-    ![jeong's Github Stats](https://github-readme-stats.vercel.app/api?username=jeong57&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddlsp0507)](https://solved.ac/wjddlsp0507)
-  </div>
+<!-- ![jeong's Github Stats](https://github-readme-stats.vercel.app/api?username=jeong57&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddlsp0507)](https://solved.ac/wjddlsp0507)
+<br><br><br>
 
 ## Stack
 ### Languages
@@ -22,10 +22,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/Pycharm-000000.svg?&style=for-the-badge&logo=Pycharm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeong57&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 
 
