@@ -1,5 +1,8 @@
 ### KIM MINJEONG 🌱
 
+[![Solved.ac
+Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeong57)](https://solved.ac/jeong57)
+
 <!--
 **jeong57/jeong57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
