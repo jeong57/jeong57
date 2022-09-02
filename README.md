@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=150&section=header&text=WELCOME&fontColor=ffd700&animation=fadeIn&fontSize=80&desc=minjeong's%20profile&descAlign=70&descAlignY=72" />
   <!-- ![jeong's Github Stats](https://github-readme-stats.vercel.app/api?username=jeong57&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddlsp0507)](https://solved.ac/wjddlsp0507)
+  ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wjddlsp0507)
+  
   <br><br><br>
-
   ## :rabbit2:Stack
   ### Languages
   ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
