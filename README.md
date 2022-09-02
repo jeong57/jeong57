@@ -6,8 +6,17 @@
   <!-- ![jeong's Github Stats](https://github-readme-stats.vercel.app/api?username=jeong57&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
 </div>
 
-  <br><br><br>
+  <br><br>
   ## Projects
+  ### Studying
+  * [Algorithm-Study](https://github.com/jeong57/Algorithm-Study) : 알고리즘 스터디(Java, Python)
+  * [Java](https://github.com/jeong57/Java) : Java 공부
+  * [SQL](https://github.com/jeong57/SQL) : SQL 공부
+  * [Python-Algorithm](https://github.com/jeong57/Python-Algorithm) : 파이썬 알고리즘 스터디(2022.2~5)
+  ### Results
+  * [React-Calenar](https://github.com/jeong57/React-Calendar) : 2022.6~8까지 진행된 토이 프로젝트로
+  * [HBM-project](https://github.com/jeong57/HBM-project) : 2021년 캡스톤디자인 HBM 제작 프로젝트
+  
   <br>
   
   ## :rabbit2:Stack
