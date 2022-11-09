@@ -12,7 +12,7 @@
   * [Algorithm-Study](https://github.com/jeong57/Algorithm-Study) : 알고리즘 스터디(Java, Python)
   * [Java](https://github.com/jeong57/Java) : Java 공부
   * [SQL](https://github.com/jeong57/SQL) : SQL 공부
-  * [Python-Algorithm](https://github.com/jeong57/Python-Algorithm) : 파이썬 알고리즘 공부(2022.2~5)
+  * [Python-Algorithm](https://github.com/jeong57/Python-Algorithm) : 파이썬 알고리즘 공부(2022.2~)
   * [Python_study](https://github.com/windy825/Python_study) : 파이썬 스터디(2022.2~4)
   ### Results
   * [React-Calenar](https://github.com/jeong57/React-Calendar) : 2022.6~8까지 진행된 토이 프로젝트로, 할 일 등록 및 일정 확인 가능 ([결과물 페이지](https://jeong57.github.io/React-Calendar/))
