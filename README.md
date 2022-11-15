@@ -15,8 +15,8 @@
   * [Python-Algorithm](https://github.com/jeong57/Python-Algorithm) : 파이썬 알고리즘 공부(2022.2~)
   * [Python_study](https://github.com/windy825/Python_study) : 파이썬 스터디(2022.2~4)
   ### Results
-  * [React-Calenar](https://github.com/jeong57/React-Calendar) : 2022.6~8까지 진행된 토이 프로젝트로, 할 일 등록 및 일정 확인 가능 ([결과물 페이지](https://jeong57.github.io/React-Calendar/))
-  * [HBM-project](https://github.com/jeong57/HBM-project) : 2021년 캡스톤디자인 HBM 제작 프로젝트
+  * [React-Calendar](https://github.com/jeong57/React-Calendar) : 2022.6~8까지 진행된 토이 프로젝트로, 할 일 등록 및 일정 확인 가능 ([결과물 페이지](https://jeong57.github.io/React-Calendar/))
+<!--   * [HBM-project](https://github.com/jeong57/HBM-project) : 2021년 캡스톤디자인 HBM 제작 프로젝트 -->
   
   <br>
   
