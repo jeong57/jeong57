@@ -16,6 +16,9 @@
   * [Python_study](https://github.com/windy825/Python_study) : 파이썬 스터디(2022.2~4)
   ### Results
   * [React-Calendar](https://github.com/jeong57/React-Calendar) : 2022.6~8까지 진행된 토이 프로젝트로, 할 일 등록 및 일정 확인 가능 ([결과물 페이지](https://jeong57.github.io/React-Calendar/))
+  * [나의 단짝친구](https://github.com/jeong57/best_friend) : 2022.07.05 ~ 2022.08.19(6주), 삼성청년소트프웨어아카데미 공통프로젝트 웹IoT
+  * [酒酒클럽(주주클럽)](https://github.com/jeong57/joojooclub) : 2022.08.22 ~ 2022.10.07(7주), 삼성청년소프트웨어아카데미 특화프로젝트 빅데이터분산처리
+  * [Moa Island](https://github.com/jeong57/moaisland) : 2022.10.10 ~ 2022.11.25(7주), 삼성청년소트프웨어아카데미 자율프로젝트 Unity
 <!--   * [HBM-project](https://github.com/jeong57/HBM-project) : 2021년 캡스톤디자인 HBM 제작 프로젝트 -->
   
   <br>
