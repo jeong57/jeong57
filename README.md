@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=150&section=header&text=WELCOME&fontColor=ffd700&animation=fadeIn&fontSize=80&desc=minjeong's%20profile&descAlign=70&descAlignY=72" />
   
-  ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wjddlsp0507)
+<!--   ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wjddlsp0507) -->
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddlsp0507)](https://solved.ac/wjddlsp0507/)
 </div>
 
